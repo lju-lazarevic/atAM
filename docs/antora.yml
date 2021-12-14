@@ -1,5 +1,5 @@
 name: Test Antora AM
-version: main
+version: 1.x
 title: Gravitee Antora Test AM
 nav:
 - modules/ROOT/nav.adoc
