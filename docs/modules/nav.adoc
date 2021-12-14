@@ -1,8 +1,3 @@
 * *Test stuff Antora AM*
 
-* xref:introduction.adoc[Introduction]
-* xref:concepts.adoc[Concepts]
-* xref:architecture.adoc[Architecture]
-* xref:why.adoc[Why]
-* xref:components.adoc[Components]
-* xref:plugins.adoc[Plugins]
+* xref:index.adoc[Introduction]
